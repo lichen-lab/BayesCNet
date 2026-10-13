@@ -214,3 +214,5 @@ Please report issues on [GitHub](https://github.com/fzhaouf/BayesCNet/issues).
 ## License
 
 MIT
+
+## Scripts for key benchmarking analyses are available at Zenodo https://doi.org/10.5281/zenodo.23324414.
